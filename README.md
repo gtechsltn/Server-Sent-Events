@@ -14,11 +14,9 @@ https://thecodeman.net/design-patterns-that-deliver-ebook
 
 https://thecodeman.net/design-patterns-simplified
 
-**Stop arguing about code style in .NET projects.**
+**Stop arguing about code style in .NET projects. Get the exact starter setup I use. Drop these files into any .NET solution and get consistent code style, CI quality gates, architecture tests, and PR hygiene out of the box.**
 
-**Get the exact starter setup I use.**
-
-**Drop these files into any .NET solution and get consistent code style, CI quality gates, architecture tests, and PR hygiene out of the box.**
+`.editorconfig`
 
 https://thecodeman.net/dotnet-code-rules-starter-kit
 
